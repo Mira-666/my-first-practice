@@ -1,0 +1,3 @@
+﻿  0.cpp
+D:\user\desktop\Practice1\Practice1\0.cpp(27,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Practice1.vcxproj -> D:\user\desktop\Practice1\x64\Debug\Practice1.exe
